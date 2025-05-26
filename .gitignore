@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Reflex
+.web
+.states
+*.db
+
+# Node.js (from .web directory)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+bun.lock
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Cache directories
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Assets (external)
+assets/external/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# Database
+database/
