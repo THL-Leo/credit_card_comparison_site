@@ -99,11 +99,6 @@ The application features a sophisticated icon system:
 
 Supported issuers include Chase, American Express, Capital One, Citi, Bank of America, Wells Fargo, Discover, and many more.
 
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **[Reflex](https://reflex.dev/)** - For the amazing Python web framework
